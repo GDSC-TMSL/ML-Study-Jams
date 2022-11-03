@@ -44,12 +44,6 @@ Joining Kaggle is a straightforward process that requires very little time and e
 
 **P.S. You will have to create a Kaggle account to complete the free courses and at the end of the program, please share your Kaggle profiles in a Google form that will be shared later on to guarantee your GDSC certifications**
 
-## Doubt solving and Discussions panel
-
-In order to effectively communicate and get your doubts solved, please use the `Discussions` section for this repository.
-
-Here's the [link](https://github.com/dsc-tiu/MLStudyJams2022/discussions) to the Discussions panel.
-
 
 ## FAQs
 
