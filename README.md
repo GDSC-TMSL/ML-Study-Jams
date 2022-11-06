@@ -8,6 +8,7 @@ The files are divided into seperate weekly folders and you can access the sessio
 Download or click on the pdf file to view the notes for the session.
 
 - [Day 01](https://github.com/GDSC-TMSL/ML-Study-Jams/tree/main/ML%20Study%20Jam%20Day%201)
+- [Day 02](https://github.com/GDSC-TMSL/ML-Study-Jams/tree/main/ML%20Study%20Jam%20Day%202)
 
 ## Roadmap
 
